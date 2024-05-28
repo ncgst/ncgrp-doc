@@ -1,5 +1,5 @@
 ---
-description: 失败 RP
+description: 失败 RP(失败角色扮演) 是指玩家破坏角色或无视既定规则，从而破坏每个人的沉浸式体验. 失败 RP 是角色扮演社区的大忌.
 ---
 
 # FailRP
