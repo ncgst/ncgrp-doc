@@ -8,4 +8,8 @@
   * [Metagaming](rp-rules/metagaming.md)
   * [NVL (无价值的生命)](rp-rules/nvl-wu-jia-zhi-de-sheng-ming.md)
   * [OOC (角色外)](rp-rules/ooc.md)
+  * [Power gaming / 强迫性 RP](rp-rules/power-gaming.md)
+  * [Poor RP (低 RP 贡献)](rp-rules/poor-rp.md)
+  * [RDM](rp-rules/rdm.md)
+  * [VDM](rp-rules/vdm.md)
   * [便衣/伪装/绑架规则](rp-rules/kidnap-rules.md)

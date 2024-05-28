@@ -1,7 +1,7 @@
 # 便衣/伪装/绑架规则
 
-{% hint style="info" %}
-**请先确认** [**手铐 / 绑带 规则**](failrp.md#shou-kao-bang-dai-gui-ze)
+{% hint style="warning" %}
+**请先确认** [**FailRP**](failrp.md)
 {% endhint %}
 
 ## 便衣
